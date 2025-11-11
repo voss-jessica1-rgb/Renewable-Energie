@@ -12,13 +12,13 @@ Approaches or solutions that have been tried before on similar projects.
   - **Outcomes**: The results show that the 1-D-CNN model performs better than the LSTM model for time series forecasting. Using machine learning techniques, the accuracy of energy prediction was succesfully improved.
   - **Relation to the Project**: The paper is similar to the project we want to do, since it also uses weather data to predict the production of renewable energy.
 
-- **Source 2**: [Title of Source 2]
+- **Source 2**: Towards Accurate Forecasting of Renewable Energy: Building Datasets and Benchmarking Machine Learning Models for Solar and Wind Power in France
 
-  - **[Link]()**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
+  - **https://arxiv.org/html/2504.16100v1**
+  - **Objective**: Predict solar and wind power porduction at country scale in France using machine learning models (based on spatially resolved weather data combined with spatial information about pruction sites' capacity.
+  - **Methods**: The dataset consist of daily power production data from the national grid operator RTE as target variables and daily weather data from ERA5. There models approaches are tested to treat the spatially resolved weather data: spatial averaging over the country, dimension reduction through principal component analysis and computer vision architecture.
+  - **Outcomes**: Cross-validation tailored to time series approaches lead to the lowest error rates and neural networks tended to outperform tree-based models.
+  - **Relation to the Project**: Equivalent data is available for Germany and the similar technics could be used to design a model for our country.
 
 - **Source 3**: [Title of Source 3]
 
