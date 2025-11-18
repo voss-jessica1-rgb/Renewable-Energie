@@ -20,10 +20,4 @@ Approaches or solutions that have been tried before on similar projects.
   - **Outcomes**: Cross-validation tailored to time series approaches lead to the lowest error rates and neural networks tended to outperform tree-based models.
   - **Relation to the Project**: Equivalent data is available for Germany and the similar technics could be used to design a model for our project.
 
-- **Source 3**: [Title of Source 3]
 
-  - **[Link]()**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
