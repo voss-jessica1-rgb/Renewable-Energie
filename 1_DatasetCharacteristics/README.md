@@ -31,7 +31,7 @@
 - visibility(): how far you can see (km)
 - solar radiation(): sum of solar radiation over the day
 - sunshine duration(): how long did the sun shine
-- cloud covererage(): percentage of cloud coverage averaged over the day
+- cloud coverage (): percentage of cloud coverage averaged over the day
 
 ## Exploratory Data Analysis
 
