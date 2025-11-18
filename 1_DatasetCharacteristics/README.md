@@ -9,26 +9,29 @@
 - **Dataset Owner/Contact:** [If applicable, provide contact information for private datasets]
 
 ### Dataset Characteristics
-- **Number of Observations:** [Total number of samples/records in your dataset. For time series data, also specify the temporal resolution (e.g., daily, hourly, etc.)]
-Number of samples: 874
-We have daily data from 23.06.2023 to 13.11.2025
-- **Number of Features:** 12
+- **Number of Observations:** Number of samples: 874, we have daily data from 23.06.2023 to 13.11.2025
+- **Number of Features:** 9
 
 ### Target Variable/Label
 - **Label Name:** Solar Power generation (kWh)
 - **Label Type:** Regression
 - **Label Description:** 
  Our label is the solar power generation of a solar plant.We want to predict the solar power generation of a privatly owned solar plant, by using a weather forecast
-- **Label Values:** [For classification: list of classes and their meanings. For regression: range of values. For other tasks: describe the label structure]
-- **Label Distribution:** [Brief description of class balance for classification or value distribution for regression]
+- **Label Values:** The daily solar power generation ranges from 0 to 50 kWh
+- **Label Distribution:** 
+ The solar power generation is higher in the summer and lower in winter, so it varies periodically. 
 
 ### Feature Description
-[Provide a brief description of each feature or group of features in your dataset. If you have many features, group them logically and describe each group. Include information about data types, ranges, and what each feature represents.]
 
-**Example format:**
-- **Feature 1 (feature_name):** [Description of what this feature represents, data type, and any relevant details]
-- **Feature 2 (feature_name):** [Description of what this feature represents, data type, and any relevant details]
-- **Feature Group (group_name):** [Description of a group of related features]
+- air temperature ():average local air temperature two meter above ground
+- humidity (): 
+- soil temperature (): average local soil temperature
+- precipitation height(): amount of rain/snow that would accumultate on a flat surface
+- air pressure(): air pressure 
+- visibility(): how far you can see (km)
+- solar radiation(): sum of solar radiation over the day
+- sunshine duration(): how long did the sun shine
+- cloud covererage(): percentage of cloud coverage averaged over the day
 
 ## Exploratory Data Analysis
 
