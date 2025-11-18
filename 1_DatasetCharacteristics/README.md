@@ -33,6 +33,11 @@
 - sunshine duration(): how long did the sun shine
 - cloud coverage (): percentage of cloud coverage averaged over the day
 
+
+
+
+********Right now, we only describbed the data for one of our two locations, we have data from a solar plant in Elmshorn, we are also thinking about including a second location (Dobersdorf), in that case we will expand our dataset if everything goes well, we will also try to use data from the whole of germany**********
+
 ## Exploratory Data Analysis
 
 The exploratory data analysis is conducted in the [exploratory_data_analysis.ipynb](exploratory_data_analysis.ipynb) notebook, which includes:
