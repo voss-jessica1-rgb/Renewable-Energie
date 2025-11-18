@@ -27,7 +27,7 @@
 - humidity (): 
 - soil temperature (): average local soil temperature
 - precipitation height(): amount of rain/snow that would accumultate on a flat surface
-- air pressure(): air pressure 
+- air pressure(): air pressure (mbar)
 - visibility(): how far you can see (km)
 - solar radiation(): sum of solar radiation over the day
 - sunshine duration(): how long did the sun shine
