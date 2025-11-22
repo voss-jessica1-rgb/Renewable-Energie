@@ -5,7 +5,7 @@
 ## Dataset Information
 
 ### Dataset Source
-- **Dataset Link:** It is a private data set, but we can provide it 
+- **Dataset Link:** It is a private data set, but we can provide it (Dataset is in the located in this folder)
 - **Dataset Owner/Contact: Christoph Emeis
 
 ### Dataset Characteristics
@@ -23,20 +23,24 @@
 
 ### Feature Description
 
-- air temperature ():average local air temperature two meter above ground
-- humidity (): 
-- soil temperature (): average local soil temperature
-- precipitation height(): amount of rain/snow that would accumultate on a flat surface
-- air pressure(): air pressure (mbar)
-- visibility(): how far you can see (km)
-- solar radiation(): sum of solar radiation over the day
-- sunshine duration(): how long did the sun shine
-- cloud coverage (): percentage of cloud coverage averaged over the day
+- air temperature (Tavg): average local air temperature two meter above ground (°C)
+- max temperature (Tmin): maximum local air temperature two meter above ground (°C)
+- min temperature (Tmax): minumum local air temperature two meter above ground (°C)
+- humidity (Hum): Relative Humidity (%)
+- Vapor pressure deficit (VPD): Evaporation Proxy (kPa)
+- Precipitation height (Prec): amount of rain/snow that would accumultate on a flat surface (mm)
+- Precipitation binary (Pbin): Did it rain or not (0/1)
+- Wind speed (Wspd): Average wind Speed (m/s)
+- Gust (Wmax): Wind Gust Max (m/s)
+- Wind direction (Wdir): Wind Direction Vector Mean (deg)  
+- Cloud coverage (Cld): Percentage of cloud coverage (Oktas)
+- Solar radiation (Sol): solar radiation (J/cm2)      !!!
+- Sunshine duration (Sun): how long did the sun shine (h) !
+- Pressure (Pres): air pressure (hPa)
+- visibility (Vis): how far you can see (m)
+- soil temperature (Soil): average local soil temperature 5cm (°C)
 
-
-
-
-********Right now, we only describbed the data for one of our two locations, we have data from a solar plant in Elmshorn, we are also thinking about including a second location (Dobersdorf), in that case we will expand our dataset if everything goes well, we will also try to use data from the whole of germany**********
+********Right now, we only described the data for one of our two locations, we have data from a solar plant in Elmshorn, we are also thinking about including a second location (Dobersdorf), in that case we will expand our dataset if everything goes well, we will also try to use data from the whole of germany**********
 
 ## Exploratory Data Analysis
 
