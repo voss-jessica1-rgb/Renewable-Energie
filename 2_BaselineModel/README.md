@@ -5,7 +5,7 @@
 ## Baseline Model Results
 
 ### Model Selection
-- **Baseline Model Type:** [e.g., Random Forest, Logistic Regression, Linear Regression, Naive Bayes, etc.]
+- **Baseline Model Type:** linear regression or random forest
 - **Rationale:** [Brief explanation of why this model was chosen as baseline]
 
 ### Model Performance
