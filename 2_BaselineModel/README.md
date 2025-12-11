@@ -5,16 +5,16 @@
 ## Baseline Model Results
 
 ### Model Selection
-- **Baseline Model Type:** linear regression or random forest
-- **Rationale:** [Brief explanation of why this model was chosen as baseline]
+- **Baseline Model Type:** linear regression 
+- **Rationale:** We tried a linear regression model and a random forest model because both seemed suitable for our task (predicting the production with 1-2 parameters) In the end we decided on the linear regression model, because it seemed to work best.
 
 ### Model Performance
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, Precision, Recall, MSE, MAE, R², etc.]
-- **Performance Score:** [e.g., 85% accuracy, F1-score of 0.78, MSE of 0.15]
+- **Evaluation Metric:** MSE
+- **Performance Score:** For Dobersdorf, we have a MSE of 0.0125, for Elmshorn its 0.0179 
 - **Cross-Validation Score:** [Mean and standard deviation of CV scores, e.g., 0.82 ± 0.03]
 
 ### Evaluation Methodology
-- **Data Split:** [Train/Validation/Test split ratios, e.g., 70/15/15]
+- **Data Split:** Train:80%, Test:20%
 - **Evaluation Metrics:** [List all metrics used and justify why they are appropriate for this problem]
 
 ### Metric Practical Relevance
