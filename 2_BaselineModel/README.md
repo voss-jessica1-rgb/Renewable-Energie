@@ -1,6 +1,6 @@
 # Baseline Model
 
-**[Notebook](baseline_model.ipynb)**
+**[Notebook](baseline_model_final.ipynb)**
 
 ## Baseline Model Results
 
