@@ -15,10 +15,10 @@
 
 ### Evaluation Methodology
 - **Data Split:** Train:80%, Test:20%
-- **Evaluation Metrics:** [List all metrics used and justify why they are appropriate for this problem]
+- **Evaluation Metrics:** Since we don't have any anomalies in our dataset, we decided to use mean squared error for our linear regression task, since it is the most commonly used and serves it's perpose.
 
 ### Metric Practical Relevance
-[Explain the practical relevance and business impact of each chosen evaluation metric. How do these metrics translate to real-world performance and decision-making? What do the metric values mean in the context of your specific problem domain?]
+MSE is practically relevant because it penalizes large errors strongly, aligns with common training losses, has strong mathematical and statistical properties, reflects risk-averse error costs and enables consistent and efficient model evaluation. MSE is computationally efficient and analytically manageable, especially in large-scale or production systems. The smaller the MSE, the better, but possible overfitting must be ruled out.
 
 ## Next Steps
 This baseline model serves as a reference point for evaluating more sophisticated models in the [Model Definition and Evaluation](../3_Model/README.md) phase.
