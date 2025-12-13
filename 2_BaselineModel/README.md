@@ -11,7 +11,8 @@
 ### Model Performance
 - **Evaluation Metric:** MSE
 - **Performance Score:** For Dobersdorf, we have a MSE of 0.0125, for Elmshorn its 0.0179 
-- **Cross-Validation Score:** [Mean and standard deviation of CV scores, e.g., 0.82 ± 0.03]
+- **Cross-Validation Score:** For Dobersdorf: 0.019 +- 0.00192
+                              For Elmshorn:0.0028 +- 0.000311
 
 ### Evaluation Methodology
 - **Data Split:** Train:80%, Test:20%
