@@ -8,17 +8,17 @@ The project presentation is your opportunity to showcase your entire machine lea
 
 ## Guidelines
 
-1. **Introduction**: Briefly introduce the problem you are solving, the dataset used, and the type of task (classification, regression, clustering, etc.).
+1. **Introduction**: Briefly introduce the problem you are solving, the dataset used, and the type of task (classification, regression, clustering, etc.). @Hossam
 
-2. **Literature Review**: Indicate solutions you've found that are related to your project.
+2. **Literature Review**: Indicate solutions you've found that are related to your project. @Chris
 
-3. **Dataset Characteristics**: Provide an overview of your dataset, including any preprocessing and feature engineering steps.
+3. **Dataset Characteristics**: Provide an overview of your dataset, including any preprocessing and feature engineering steps. @Jessica
 
-4. **Baseline Model**: Quickly recap your baseline model, its performance, and why it was chosen.
+4. **Baseline Model**: Quickly recap your baseline model, its performance, and why it was chosen. @Chris
 
-5. **Model Definition and Evaluation**: Discuss the models you've implemented, the feature engineering steps you've taken, and how you evaluated their performance. Include a screenshot of the code you used to implement the model.
+5. **Model Definition and Evaluation**: Discuss the models you've implemented, the feature engineering steps you've taken, and how you evaluated their performance. Include a screenshot of the code you used to implement the model. @Hossam
 
-6. **Results**: Present the results in a clear and easy-to-understand format. Use tables, charts, or any other visual aids that you find appropriate.
+6. **Results**: Present the results in a clear and easy-to-understand format. Use tables, charts, or any other visual aids that you find appropriate. 
 
 7. **Challenges and Errors**: Discuss the most challenging issue or error you encountered during the data preparation or modeling phase, and how you overcame it.
 
