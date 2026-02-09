@@ -1,12 +1,13 @@
-# [Your Project Title Here]
+# Renewable Energy Generation Prediction
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+https://github.com/voss-jessica1-rgb/Renewable-Energie.git
 
 ## Description
 
 [Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+
 
 ### Task Type
 
