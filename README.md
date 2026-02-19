@@ -6,7 +6,6 @@ https://github.com/voss-jessica1-rgb/Renewable-Energie.git
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
 [We want to accurately predict daily solar photovoltaic (PV) power generation on privately owned solar plants using weather (forecast) data.]
 
 ### Task Type
@@ -16,20 +15,19 @@ https://github.com/voss-jessica1-rgb/Renewable-Energie.git
 ### Results Summary
 
 #### Best Model Performance
-- **Best Model:** [Name and type of the best-performing model"]
-- **Evaluation Metric:** [Primary metric used, e.g., Accuracy, F1-Score, MSE, MAE]
-- **Final Performance:** [Best score achieved, e.g., 95% accuracy, F1-score of 0.87, MSE of 0.12]
+- **Best Model:** [Simple Neural Network (baseline model)"]
+- **Evaluation Metric:** [Accuracy calculating the MAE in percent.]
+- **Final Performance:** [Best score achieved: 91% accuracy]
 
 #### Model Comparison
-- **Baseline Performance:** [Baseline model performance for comparison]
-- **Improvement Over Baseline:** [Quantitative improvement, e.g., "+12% accuracy", "25% reduction in MSE"]
-- **Best Alternative Model:** [Second-best model and its performance]
+- **Alternative Model:** [Long-short term memory (LSTM) model performance for comparison]
+- **LSTM Performance:** [85-88% accuracy"]
 
 #### Key Insights
-- **Most Important Features:** [Top 3-5 features that drive model performance]
-- **Model Strengths:** [What the model does well]
-- **Model Limitations:** [Known limitations and failure cases]
-- **Business Impact:** [Practical implications of the model performance]
+- **Most Important Features:** [Sunlight duration and average temperature]
+- **Model Strengths:** [The baseline model exhibits a linear prediction to actual value relation. Performing reasonably well across the whole generation spectrum.]
+- **Model Limitations:** [For the LSTM model we did not have enough training data. More data would probably increase the accuracy of the that model.]
+- **Business Impact:** [Practical implications of the model performance: The better the perdiction, the better one could adjust energy usage to it. Use case: Which day of the coming week, should I charge the electric car?]
 
 ## Documentation
 
