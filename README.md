@@ -7,12 +7,11 @@ https://github.com/voss-jessica1-rgb/Renewable-Energie.git
 ## Description
 
 [Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
-Hello
-
+[We want to accurately predict daily solar photovoltaic (PV) power generation on privately owned solar plants using weather (forecast) data.]
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+[Regression]
 
 ### Results Summary
 
