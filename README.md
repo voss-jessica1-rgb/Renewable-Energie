@@ -41,4 +41,4 @@ https://github.com/voss-jessica1-rgb/Renewable-Energie.git
 
 ## Cover Image
 
-![Project Cover Image](CoverImage/cover_image.png)
+![Project Cover Image](CoverImage/Cover_Image.jpeg)
