@@ -1,7 +1,7 @@
 # Baseline Model
-
+We decided to create two different baseline models for our two locations. The links below lead to final versions of these models. We have other versins still uploaded in this folder, for example also the random forest model we tried.
 **[Notebook_Dobersdorf](baseline_model_final_Dobersdorf.ipynb)**
-**[Notebook](baseline_model_final.ipynb)**
+**[Notebook_Elmshorn](baseline_model_final_Elmshorn.ipynb)**
 
 ## Baseline Model Results
 
