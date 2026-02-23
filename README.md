@@ -32,10 +32,12 @@ https://github.com/voss-jessica1-rgb/Renewable-Energie.git
 ## Documentation
 
 1. **[Literature Review](0_LiteratureReview/README.md)**
-2. **[Dataset Characteristics](1_DatasetCharacteristics/exploratory_data_analysis.ipynb)**
-3. **[Baseline Model](2_BaselineModel/baseline_model.ipynb)**
-4. **[Model Definition and Evaluation](3_Model/model_definition_evaluation)**
-5. **[Presentation](4_Presentation/README.md)**
+2. **[Dataset Characteristics](1_DatasetCharacteristics/exploratory_data_analysis_updated.ipynb)**
+3. **[Baseline Model (Dobersdorf)](2_BaselineModel/baseline_model_final_Dobersdorf.ipynb)**
+   **[Baseline Model (Elmshorn)](2_BaselineModel/baseline_model_final_Elmshorn.ipynb)**
+4. **[Model Definition and Evaluation(Dobersdorf)](3_Model/model_definition_evaluation_Dobersdorf_final.ipynb)**
+   **[Model Definition and Evaluation(Elmshorn)](3_Model/model_definition_evaluation_Elmshorn_final.ipynb)**
+6. **[Presentation](4_Presentation/README.md)**
 
 ## Cover Image
 
